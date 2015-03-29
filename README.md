@@ -1,0 +1,1 @@
+A Logistic Regression classifier used to predict income levels from census data.
