@@ -1,0 +1,5 @@
+age, weight, job
+20, 100, dentist
+20, 200, surgeon
+40, 200, scientist
+80, 400, lawyer

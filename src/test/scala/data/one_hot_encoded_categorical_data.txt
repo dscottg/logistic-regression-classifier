@@ -1,0 +1,5 @@
+animal, habitat, age
+tiger, jungle, 10
+elephant, savannah, 11
+zebra, savannah, 4
+

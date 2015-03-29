@@ -1,0 +1,3 @@
+quantity, credit_card, width, height, length, animal
+1, visa, 3, 8, 5, cat
+1, mastercard, 6, 4, 25, cat
